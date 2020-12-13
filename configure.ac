@@ -53,7 +53,11 @@ AC_PREREQ([2.57])
 #
 
 m4_define([pixman_major], 0)
+<<<<<<< HEAD
 m4_define([pixman_minor], 40)
+=======
+m4_define([pixman_minor], 34)
+>>>>>>> Post-release version bump to 0.34.1
 m4_define([pixman_micro], 1)
 
 m4_define([pixman_version],[pixman_major.pixman_minor.pixman_micro])
